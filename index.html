@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>醫師國考｜心內/胸內｜互動題庫（試作）</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>互動題庫（試作）</h1>
+    <div class="toolbar">
+      <button id="btn-random">下一題（Random）</button>
+      <button id="btn-wrong">只練錯題</button>
+      <button id="btn-all">回到全部題</button>
+      <button id="btn-clear">清空錯題紀錄</button>
+    </div>
+    <div class="status">
+      <span id="mode"></span>
+      <span id="progress"></span>
+    </div>
+  </header>
+
+  <main>
+    <section class="card">
+      <div class="meta">
+        <span id="qid"></span>
+        <span id="ref"></span>
+      </div>
+
+      <h2 id="stem"></h2>
+
+      <div id="options" class="options"></div>
+
+      <div id="result" class="result" aria-live="polite"></div>
+
+      <details id="explainBox" class="explain">
+        <summary>詳解（點開）</summary>
+        <div id="explain"></div>
+      </details>
+    </section>
+  </main>
+
+  <footer>
+    <small>私人使用版本：錯題記錄存於本機瀏覽器 localStorage。</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

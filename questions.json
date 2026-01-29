@@ -1,0 +1,227 @@
+[
+  {
+    "id": "HTN-001",
+    "stem": "關於血壓測量（blood pressure measurement）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "上下肢血壓差異擴大可見於 severe Aortic regurgitation 或嚴重周邊動脈疾病（peripheral arterial disease）。"
+      },
+      {
+        "key": "B",
+        "text": "小腿（calf）的 systolic blood pressure 常較上臂（upper arm）高約 20 mmHg。"
+      },
+      {
+        "key": "C",
+        "text": "Cuff 過小會使測得血壓明顯低估（underestimate）。"
+      },
+      {
+        "key": "D",
+        "text": "兩側上臂 systolic blood pressure 的差異一般應在 10 mmHg 以內。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Cuff 過小時需要更高壓力才壓迫血管，通常會造成血壓高估（overestimate），不是低估。其他選項為常見測量原則/臨床觀察。",
+    "reference": "《三(1)：心內、胸內》PDF p24（血壓測量題）"
+  },
+  {
+    "id": "HTN-002",
+    "stem": "關於 Diabetes mellitus 與 Hypertension 的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Diabetes mellitus 病人合併 Hypertension 的盛行率高於非糖尿病者。"
+      },
+      {
+        "key": "B",
+        "text": "合併 Diabetes mellitus 的 Hypertension，常見 first-line 會考慮 ACE inhibitor 或 ARB（視臨床情況）。"
+      },
+      {
+        "key": "C",
+        "text": "Diabetes mellitus 病人的血壓控制目標一般建議比一般人更寬鬆（less strict）。"
+      },
+      {
+        "key": "D",
+        "text": "Hypertension 會促進 Diabetes mellitus 的 macrovascular 與 microvascular complications。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "多數情境下，Diabetes mellitus 合併 Hypertension 的 BP target 會更嚴格（stricter），以降低 microvascular/macrovascular risk（實際目標依指引與個案調整）。",
+    "reference": "《三(1)：心內、胸內》PDF p25（Diabetes + HTN 題）"
+  },
+  {
+    "id": "HTN-003",
+    "stem": "關於 Coarctation of the aorta 的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "狹窄最常見於 left subclavian artery 遠端、靠近 ductus arteriosus / ligamentum arteriosum 區域。"
+      },
+      {
+        "key": "B",
+        "text": "屬於 congenital heart disease。"
+      },
+      {
+        "key": "C",
+        "text": "通常 female 多於 male。"
+      },
+      {
+        "key": "D",
+        "text": "可與 Turner syndrome（gonadal dysgenesis）相關。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Coarctation of the aorta 的流行病學常見為 male predominance；Turner syndrome 是典型相關情境之一。",
+    "reference": "《三(1)：心內、胸內》PDF p25（Coarctation 題）"
+  },
+  {
+    "id": "HTN-004",
+    "stem": "某病人懷疑 Orthostatic hypotension：supine 5 分鐘 BP 124/78 mmHg；站立後 1 分鐘內 BP 90/62 mmHg。下列何者最正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "符合 Orthostatic hypotension：SBP 下降 ≥20 mmHg 或 DBP 下降 ≥10 mmHg（於站立後 1–3 分鐘內）。"
+      },
+      {
+        "key": "B",
+        "text": "SBP 下降達標但 DBP 未達 20 mmHg，所以不符合。"
+      },
+      {
+        "key": "C",
+        "text": "未測 heart rate，因此無法判斷。"
+      },
+      {
+        "key": "D",
+        "text": "需站立超過 3 分鐘才可下診斷，1 分鐘內測量不算。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "定義要點：站立後 1–3 分鐘內，SBP drop ≥20 mmHg 或 DBP drop ≥10 mmHg 即符合。此例 SBP drop 34、DBP drop 16，符合診斷。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Orthostatic hypotension 題）"
+  },
+  {
+    "id": "HTN-005",
+    "stem": "下列何者不是 wide pulse pressure 的常見鑑別診斷（differential diagnosis）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aortic stenosis"
+      },
+      {
+        "key": "B",
+        "text": "Thyrotoxicosis"
+      },
+      {
+        "key": "C",
+        "text": "Fever / systemic infection with hyperdynamic circulation"
+      },
+      {
+        "key": "D",
+        "text": "Patent ductus arteriosus（PDA）"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Aortic stenosis 常見是「narrow pulse pressure」，因為流出道受限使 systolic 上升受限；其餘選項較可能造成 hyperdynamic state 或 run-off，導致 pulse pressure 變寬。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Wide pulse pressure 題）"
+  },
+  {
+    "id": "HTN-006",
+    "stem": "一位病人疑似 Pheochromocytoma（paroxysmal palpitation/headache/diaphoresis，正安排 24-hour urinary catecholamines）。若要藥物降壓，下列何者最不適宜？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha-adrenergic blocker alone"
+      },
+      {
+        "key": "B",
+        "text": "Beta-adrenergic blocker alone"
+      },
+      {
+        "key": "C",
+        "text": "Calcium channel blocker"
+      },
+      {
+        "key": "D",
+        "text": "Beta-adrenergic blocker after adequate alpha blockade"
+      }
+    ],
+    "answer": "B",
+    "explanation": "未先做 alpha blockade 就單用 beta blocker，可能造成 unopposed alpha stimulation，導致血壓更劇烈上升。臨床原則：先 alpha blockade，再視需要加 beta blockade。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Pheochromocytoma 用藥題）"
+  },
+  {
+    "id": "HTN-007",
+    "stem": "關於 pregnancy 合併 chronic Hypertension 的治療建議，下列何者最不適當？",
+    "options": [
+      {
+        "key": "A",
+        "text": "First-line 使用 ACE inhibitor 或 ARB"
+      },
+      {
+        "key": "B",
+        "text": "可考慮 labetalol 或 nifedipine 控制血壓（依情況調整）"
+      },
+      {
+        "key": "C",
+        "text": "mild Hypertension 是否治療能否改善 pregnancy outcome，證據需依指引與個案評估"
+      },
+      {
+        "key": "D",
+        "text": "可用目標控制：SBP 約 130–150、DBP 約 80–100 mmHg（依風險與指引調整）"
+      }
+    ],
+    "answer": "A",
+    "explanation": "ACE inhibitor/ARB 在 pregnancy 有 fetotoxicity / teratogenicity risk，一般避免使用；常用替代如 labetalol、nifedipine、methyldopa 等（依指引與個案）。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Pregnancy + HTN 題）"
+  },
+  {
+    "id": "HTN-008",
+    "stem": "Secondary Hypertension 的 endocrine etiologies 中，下列何者最常見？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Primary aldosteronism"
+      },
+      {
+        "key": "B",
+        "text": "Pheochromocytoma"
+      },
+      {
+        "key": "C",
+        "text": "Cushing syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Acromegaly"
+      }
+    ],
+    "answer": "A",
+    "explanation": "在 endocrine causes 裡，primary aldosteronism 是相對常見且高產出的考點；臨床會依 hypokalemia、renin/aldosterone pattern 等線索評估。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Secondary HTN endocrine 題）"
+  },
+  {
+    "id": "HTN-009",
+    "stem": "一位疑似 Pheochromocytoma（adrenal mass 4 cm，檢查高度支持）即將手術。術前處置何者最正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "立刻安排 emergent surgery，不需額外準備"
+      },
+      {
+        "key": "B",
+        "text": "先做 CT-guided biopsy 以確認病理"
+      },
+      {
+        "key": "C",
+        "text": "術前約 7–10 天先給予 adequate alpha blockade 並補充 volume，必要時再加 beta blockade"
+      },
+      {
+        "key": "D",
+        "text": "先給 somatostatin analogue 抑制 catecholamines 分泌作為標準術前流程"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Pheochromocytoma 手術前核心是降低術中 catecholamine surge 風險：先 alpha blockade（並進行 volume expansion），再視 tachycardia/arrhythmia 需求加 beta blockade；一般不做 biopsy（風險高）。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Pheochromocytoma 術前準備題）"
+  }
+]
