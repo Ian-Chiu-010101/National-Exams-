@@ -1,0 +1,877 @@
+[
+  {
+    "id": "HTN-001",
+    "stem": "關於血壓測量（blood pressure measurement）的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "上下肢血壓差異擴大可見於 severe Aortic regurgitation 或嚴重周邊動脈疾病')"
+      },
+      {
+        "key": "B",
+        "text": "小腿（calf）的 systolic blood pressure 常較上臂（upper arm）高約 20 mmHg。"
+      },
+      {
+        "key": "C",
+        "text": "Cuff 過小會使測得血壓明顯低估（underestimate）。"
+      },
+      {
+        "key": "D",
+        "text": "兩側上臂 systolic blood pressure 的差異一般應在 10 mmHg 以內。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Cuff 過小時需要更高壓力才壓迫血管，通常會造成血壓高估（overestimate），不是低估。其他選項為常見測量原則/臨床觀察。",
+    "reference": "《三(1)：心內、胸內》PDF p24（血壓測量題）"
+  },
+  {
+    "id": "HTN-002",
+    "stem": "關於 Diabetes mellitus 與 Hypertension 的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Diabetes mellitus 病人合併 Hypertension 的盛行率高於非糖尿病者。"
+      },
+      {
+        "key": "B",
+        "text": "合併 Diabetes mellitus 的 Hypertension，常見 first-line 會考慮 ACE inhibitor 或 ARB（視臨床情況）。"
+      },
+      {
+        "key": "C",
+        "text": "Diabetes mellitus 病人的血壓控制目標一般建議比一般人更寬鬆（less strict）。"
+      },
+      {
+        "key": "D",
+        "text": "Hypertension 會促進 Diabetes mellitus 的 macrovascular 與 microvascular complications。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "多數情境下，Diabetes mellitus 合併 Hypertension 的 BP target 會更嚴格（stricter），以降低 microvascular/macrovascular risk（實際目標依指引與個案調整）。",
+    "reference": "《三(1)：心內、胸內》PDF p25（Diabetes + HTN 題）"
+  },
+  {
+    "id": "HTN-003",
+    "stem": "關於 Coarctation of the aorta 的敘述，下列何者錯誤？",
+    "options": [
+      {
+        "key": "A",
+        "text": "狹窄最常見於 left subclavian artery 遠端、靠近 ductus arteriosus / ligamentum arteriosum 區域。"
+      },
+      {
+        "key": "B",
+        "text": "屬於 congenital heart disease。"
+      },
+      {
+        "key": "C",
+        "text": "通常 female 多於 male。"
+      },
+      {
+        "key": "D",
+        "text": "可與 Turner syndrome（gonadal dysgenesis）相關。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Coarctation of the aorta 的流行病學常見為 male predominance；Turner syndrome 是典型相關情境之一。",
+    "reference": "《三(1)：心內、胸內》PDF p25（Coarctation 題）"
+  },
+  {
+    "id": "HTN-004",
+    "stem": "某病人懷疑 Orthostatic hypotension：supine 5 分鐘 BP 124/78 mmHg；站立後 1 分鐘內 BP 90/62 mmHg。下列何者最正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "符合 Orthostatic hypotension：SBP 下降 ≥20 mmHg 或 DBP 下降 ≥10 mmHg（於站立後 1–3 分鐘內）。"
+      },
+      {
+        "key": "B",
+        "text": "SBP 下降達標但 DBP 未達 20 mmHg，所以不符合。"
+      },
+      {
+        "key": "C",
+        "text": "未測 heart rate，因此無法判斷。"
+      },
+      {
+        "key": "D",
+        "text": "需站立超過 3 分鐘才可下診斷，1 分鐘內測量不算。"
+      }
+    ],
+    "answer": "A",
+    "explanation": "定義要點：站立後 1–3 分鐘內，SBP drop ≥20 mmHg 或 DBP drop ≥10 mmHg 即符合。此例 SBP drop 34、DBP drop 16，符合診斷。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Orthostatic hypotension 題）"
+  },
+  {
+    "id": "HTN-005",
+    "stem": "下列何者不是 wide pulse pressure 的常見鑑別診斷（differential diagnosis）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aortic stenosis"
+      },
+      {
+        "key": "B",
+        "text": "Thyrotoxicosis"
+      },
+      {
+        "key": "C",
+        "text": "Fever / systemic infection with hyperdynamic circulation"
+      },
+      {
+        "key": "D",
+        "text": "Patent ductus arteriosus（PDA）"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Aortic stenosis 常見是「narrow pulse pressure」，因為流出道受限使 systolic 上升受限；其餘選項較可能造成 hyperdynamic state 或 run-off，導致 pulse pressure 變寬。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Wide pulse pressure 題）"
+  },
+  {
+    "id": "HTN-006",
+    "stem": "一位病人疑似 Pheochromocytoma（paroxysmal palpitation/headache/diaphoresis，正安排 24-hour urinary catecholamines）。若要藥物降壓，下列何者最不適宜？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Alpha-adrenergic blocker alone"
+      },
+      {
+        "key": "B",
+        "text": "Beta-adrenergic blocker alone"
+      },
+      {
+        "key": "C",
+        "text": "Calcium channel blocker"
+      },
+      {
+        "key": "D",
+        "text": "Beta-adrenergic blocker after adequate alpha blockade"
+      }
+    ],
+    "answer": "B",
+    "explanation": "未先做 alpha blockade 就單用 beta blocker，可能造成 unopposed alpha stimulation，導致血壓更劇烈上升。臨床原則：先 alpha blockade，再視需要加 beta blockade。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Pheochromocytoma 用藥題）"
+  },
+  {
+    "id": "HTN-007",
+    "stem": "關於 pregnancy 合併 chronic Hypertension 的治療建議，下列何者最不適當？",
+    "options": [
+      {
+        "key": "A",
+        "text": "First-line 使用 ACE inhibitor 或 ARB"
+      },
+      {
+        "key": "B",
+        "text": "可考慮 labetalol 或 nifedipine 控制血壓（依情況調整）"
+      },
+      {
+        "key": "C",
+        "text": "mild Hypertension 是否治療能否改善 pregnancy outcome，證據需依指引與個案評估"
+      },
+      {
+        "key": "D",
+        "text": "可用目標控制：SBP 約 130–150、DBP 約 80–100 mmHg（依風險與指引調整）"
+      }
+    ],
+    "answer": "A",
+    "explanation": "ACE inhibitor/ARB 在 pregnancy 有 fetotoxicity / teratogenicity risk，一般避免使用；常用替代如 labetalol、nifedipine、methyldopa 等（依指引與個案）。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Pregnancy + HTN 題）"
+  },
+  {
+    "id": "HTN-008",
+    "stem": "Secondary Hypertension 的 endocrine etiologies 中，下列何者最常見？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Primary aldosteronism"
+      },
+      {
+        "key": "B",
+        "text": "Pheochromocytoma"
+      },
+      {
+        "key": "C",
+        "text": "Cushing syndrome"
+      },
+      {
+        "key": "D",
+        "text": "Acromegaly"
+      }
+    ],
+    "answer": "A",
+    "explanation": "在 endocrine causes 裡，primary aldosteronism 是相對常見且高產出的考點；臨床會依 hypokalemia、renin/aldosterone pattern 等線索評估。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Secondary HTN endocrine 題）"
+  },
+  {
+    "id": "HTN-009",
+    "stem": "一位疑似 Pheochromocytoma（adrenal mass 4 cm，檢查高度支持）即將手術。術前處置何者最正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "立刻安排 emergent surgery，不需額外準備"
+      },
+      {
+        "key": "B",
+        "text": "先做 CT-guided biopsy 以確認病理"
+      },
+      {
+        "key": "C",
+        "text": "術前約 7–10 天先給予 adequate alpha blockade 並補充 volume，必要時再加 beta blockade"
+      },
+      {
+        "key": "D",
+        "text": "先給 somatostatin analogue 抑制 catecholamines 分泌作為標準術前流程"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Pheochromocytoma 手術前核心是降低術中 catecholamine surge 風險：先 alpha blockade（並進行 volume expansion），再視 tachycardia/arrhythmia 需求加 beta blockade；一般不做 biopsy（風險高）。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Pheochromocytoma 術前準備題）"
+  },
+  {
+    "id": "HTN-010",
+    "stem": "下列何者最符合「Hypertensive emergency」的定義？",
+    "options": [
+      {
+        "key": "A",
+        "text": "血壓非常高但沒有任何症狀或器官損傷"
+      },
+      {
+        "key": "B",
+        "text": "高血壓合併急性 target-organ damage（例如 encephalopathy、pulmonary edema、AKI）"
+      },
+      {
+        "key": "C",
+        "text": "收縮壓 ≥ 180 mmHg 就一定是 emergency"
+      },
+      {
+        "key": "D",
+        "text": "只要有頭痛就是 emergency，需要立刻把血壓降到正常"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Hypertensive emergency 的核心不是數字，而是是否有急性 target-organ damage。沒有急性器官損傷但血壓很高，多屬 hypertensive urgency 或 severe asymptomatic HTN，處置節奏不同。",
+    "reference": "《三(1)：心內、胸內》PDF（Hypertension 章節概念延伸）"
+  },
+  {
+    "id": "HTN-011",
+    "stem": "關於「cuff size」對血壓測量的影響，下列何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "cuff 太大會高估血壓；cuff 太小會低估血壓"
+      },
+      {
+        "key": "B",
+        "text": "cuff 太小常高估血壓；cuff 太大可能低估血壓"
+      },
+      {
+        "key": "C",
+        "text": "cuff 大小不影響血壓，只影響舒適度"
+      },
+      {
+        "key": "D",
+        "text": "cuff 太小只影響 DBP，不影響 SBP"
+      }
+    ],
+    "answer": "B",
+    "explanation": "cuff 太小 → 需要更高壓力才能壓迫動脈，常造成血壓高估；cuff 太大可能造成低估。這是臨床常考的量測誤差來源。",
+    "reference": "《三(1)：心內、胸內》PDF p24（血壓測量題；概念整理）"
+  },
+  {
+    "id": "HTN-012",
+    "stem": "懷疑 Pheochromocytoma 的病人，若出現 tachycardia 需要控制心跳，下列何者是正確的用藥順序概念？",
+    "options": [
+      {
+        "key": "A",
+        "text": "先 beta blocker，再 alpha blocker"
+      },
+      {
+        "key": "B",
+        "text": "先 alpha blocker，再視需要加 beta blocker"
+      },
+      {
+        "key": "C",
+        "text": "beta blocker 與 alpha blocker 同時開始即可"
+      },
+      {
+        "key": "D",
+        "text": "只用 beta blocker 最安全"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Pheochromocytoma 需避免 unopposed alpha stimulation：先 adequate alpha blockade，之後如有 persistent tachycardia/arrhythmia 才加 beta blockade。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Pheochromocytoma 用藥題）"
+  },
+  {
+    "id": "HTN-013",
+    "stem": "下列哪一個情境最支持 secondary hypertension 的可能性（相較於 primary hypertension）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "家族史陽性且逐年緩慢上升的血壓"
+      },
+      {
+        "key": "B",
+        "text": "年輕人突然出現嚴重高血壓且藥物難控制"
+      },
+      {
+        "key": "C",
+        "text": "肥胖合併代謝症候群"
+      },
+      {
+        "key": "D",
+        "text": "長期高鈉飲食"
+      }
+    ],
+    "answer": "B",
+    "explanation": "年輕、急遽發作、重度或 resistant hypertension 都是 secondary hypertension 警訊；其餘多為 primary hypertension 的常見背景因素。",
+    "reference": "《三(1)：心內、胸內》PDF（Secondary HTN 考點延伸）"
+  },
+  {
+    "id": "HTN-014",
+    "stem": "下列何者最符合 primary aldosteronism 的典型線索？",
+    "options": [
+      {
+        "key": "A",
+        "text": "高血壓合併低血鉀、低 renin、相對高 aldosterone"
+      },
+      {
+        "key": "B",
+        "text": "高血壓合併高血鉀、低 aldosterone"
+      },
+      {
+        "key": "C",
+        "text": "高血壓合併低血鈉與低 cortisol"
+      },
+      {
+        "key": "D",
+        "text": "高血壓合併低血氧與胸痛"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Primary aldosteronism 常見 biochemical pattern：volume expansion → renin suppressed；aldosterone 相對不恰當偏高；並可造成 hypokalemia（但也可能為 normokalemic）。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Secondary HTN endocrine；延伸整理）"
+  },
+  {
+    "id": "HTN-015",
+    "stem": "下列哪一個最可能造成「narrow pulse pressure」？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aortic regurgitation"
+      },
+      {
+        "key": "B",
+        "text": "Patent ductus arteriosus"
+      },
+      {
+        "key": "C",
+        "text": "Aortic stenosis"
+      },
+      {
+        "key": "D",
+        "text": "Thyrotoxicosis"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Aortic stenosis 使 stroke volume 受限，systolic 上升受限，常見 narrow pulse pressure；AR、PDA、thyrotoxicosis 多見 wide pulse pressure。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Wide pulse pressure 題；反向考點）"
+  },
+  {
+    "id": "HTN-016",
+    "stem": "在 pregnancy 期間，下列何種降壓藥一般被視為相對可用（依指引與個案調整）？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ACE inhibitor"
+      },
+      {
+        "key": "B",
+        "text": "ARB"
+      },
+      {
+        "key": "C",
+        "text": "labetalol"
+      },
+      {
+        "key": "D",
+        "text": "direct renin inhibitor（aliskiren）"
+      }
+    ],
+    "answer": "C",
+    "explanation": "Pregnancy 常用降壓選項包含 labetalol、nifedipine、methyldopa（依情境）。ACEi/ARB/renin inhibitor 通常避免。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Pregnancy + HTN 題；延伸）"
+  },
+  {
+    "id": "HTN-017",
+    "stem": "下列何者最能解釋「兩上臂收縮壓差距顯著」的臨床意義？",
+    "options": [
+      {
+        "key": "A",
+        "text": "一定是 measurement error，沒有臨床意義"
+      },
+      {
+        "key": "B",
+        "text": "可能提示 subclavian stenosis 或其他周邊血管病變"
+      },
+      {
+        "key": "C",
+        "text": "提示肺栓塞"
+      },
+      {
+        "key": "D",
+        "text": "提示二尖瓣狹窄"
+      }
+    ],
+    "answer": "B",
+    "explanation": "兩上臂 SBP 差距擴大需考慮周邊血管病變（如 subclavian artery stenosis），也需確保量測方法正確；臨床上不能直接忽略。",
+    "reference": "《三(1)：心內、胸內》PDF p24（血壓測量題；延伸）"
+  },
+  {
+    "id": "HTN-018",
+    "stem": "「Orthostatic hypotension」的診斷標準，下列何者正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "站立後 30 秒內，SBP drop ≥10 或 DBP drop ≥5"
+      },
+      {
+        "key": "B",
+        "text": "站立後 1–3 分鐘內，SBP drop ≥20 或 DBP drop ≥10"
+      },
+      {
+        "key": "C",
+        "text": "只要站立後頭暈即診斷成立"
+      },
+      {
+        "key": "D",
+        "text": "需站立超過 10 分鐘才可判定"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Orthostatic hypotension 的標準定義：站立後 1–3 分鐘內 SBP 下降 ≥20 mmHg 或 DBP 下降 ≥10 mmHg。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Orthostatic hypotension 題）"
+  },
+  {
+    "id": "HTN-019",
+    "stem": "關於 Coarctation of the aorta 的典型位置，下列何者最符合？",
+    "options": [
+      {
+        "key": "A",
+        "text": "ascending aorta proximal to coronary ostia"
+      },
+      {
+        "key": "B",
+        "text": "aortic isthmus near ductus arteriosus / ligamentum arteriosum"
+      },
+      {
+        "key": "C",
+        "text": "abdominal aorta at renal artery origin"
+      },
+      {
+        "key": "D",
+        "text": "main pulmonary artery"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Coarctation 最常見於 left subclavian artery distal、aortic isthmus、靠近 ductus arteriosus/ligamentum arteriosum 的區域。",
+    "reference": "《三(1)：心內、胸內》PDF p25（Coarctation 題）"
+  },
+  {
+    "id": "HTN-020",
+    "stem": "下列何者最可能造成「wide pulse pressure」？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aortic stenosis"
+      },
+      {
+        "key": "B",
+        "text": "Aortic regurgitation"
+      },
+      {
+        "key": "C",
+        "text": "Severe dehydration"
+      },
+      {
+        "key": "D",
+        "text": "Cardiogenic shock"
+      }
+    ],
+    "answer": "B",
+    "explanation": "Aortic regurgitation 可造成 stroke volume 增加與 diastolic runoff，使 pulse pressure 變寬；AS 多見 narrow pulse pressure。",
+    "reference": "《三(1)：心內、胸內》PDF p26（Wide pulse pressure 題；延伸）"
+  },
+  {
+    "id": "HTN-021",
+    "stem": "對於 pheochromocytoma 病人，為何一般不建議做 adrenal mass biopsy？",
+    "options": [
+      {
+        "key": "A",
+        "text": "因為 biopsy 會讓腫瘤縮小，影響手術"
+      },
+      {
+        "key": "B",
+        "text": "因為可能誘發 catecholamine surge，造成嚴重高血壓危象"
+      },
+      {
+        "key": "C",
+        "text": "因為 biopsy 一定會造成腫瘤出血致死"
+      },
+      {
+        "key": "D",
+        "text": "因為 biopsy 無法取得組織"
+      }
+    ],
+    "answer": "B",
+    "explanation": "對 pheochromocytoma 的腫瘤操作（含 biopsy）可能觸發 catecholamine release，導致 hypertensive crisis；因此通常以 biochemical + imaging 診斷，避免 biopsy。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Pheochromocytoma 題；延伸）"
+  },
+  {
+    "id": "HTN-022",
+    "stem": "下列何者是 secondary hypertension 中「renal causes」最常被列入的鑑別？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Chronic kidney disease / renal parenchymal disease"
+      },
+      {
+        "key": "B",
+        "text": "Acromegaly"
+      },
+      {
+        "key": "C",
+        "text": "Hyperthyroidism"
+      },
+      {
+        "key": "D",
+        "text": "Pheochromocytoma"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Secondary HTN 常見類別：renal parenchymal disease（最常見之一）、renovascular disease、endocrine causes 等；其餘選項屬 endocrine/其他類別。",
+    "reference": "《三(1)：心內、胸內》PDF（Secondary HTN 概念延伸）"
+  },
+  {
+    "id": "HTN-023",
+    "stem": "對於 diabetes mellitus 合併 proteinuria 的高血壓患者，下列何者較符合常見治療策略？",
+    "options": [
+      {
+        "key": "A",
+        "text": "優先考慮 ACE inhibitor 或 ARB 以降低蛋白尿（依禁忌症調整）"
+      },
+      {
+        "key": "B",
+        "text": "優先使用 loop diuretic 作為 first-line"
+      },
+      {
+        "key": "C",
+        "text": "避免任何 RAAS blockade"
+      },
+      {
+        "key": "D",
+        "text": "只要血壓不高於 180/110 就不需要治療"
+      }
+    ],
+    "answer": "A",
+    "explanation": "DM 合併 albuminuria/proteinuria 常見考點是 RAAS blockade（ACEi/ARB）可降低蛋白尿、延緩腎病進展（需注意妊娠、腎動脈狹窄、高血鉀等禁忌）。",
+    "reference": "《三(1)：心內、胸內》PDF p25（DM + HTN 題；延伸）"
+  },
+  {
+    "id": "HTN-024",
+    "stem": "若要評估 primary aldosteronism 的初步篩檢，臨床常用的概念是哪一個？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Plasma aldosterone concentration / plasma renin activity ratio（ARR）"
+      },
+      {
+        "key": "B",
+        "text": "24-hour urinary catecholamine"
+      },
+      {
+        "key": "C",
+        "text": "TSH"
+      },
+      {
+        "key": "D",
+        "text": "Troponin I"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Primary aldosteronism 的常用初篩是 ARR（aldosterone 相對高、renin suppressed）；其餘為其他疾病的檢查。",
+    "reference": "《三(1)：心內、胸內》PDF p27（Secondary HTN endocrine；延伸）"
+  },
+  {
+    "id": "VALVE-001",
+    "stem": "關於 Mitral valve prolapse（MVP）的敘述，下列何者最正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "MVP 的診斷必須靠心導管"
+      },
+      {
+        "key": "B",
+        "text": "在 echocardiography 上，leaflet displacement into left atrium > 2 mm 是常用定義之一"
+      },
+      {
+        "key": "C",
+        "text": "MVP 幾乎不會造成 murmur"
+      },
+      {
+        "key": "D",
+        "text": "MVP 與結締組織疾病無關"
+      }
+    ],
+    "answer": "B",
+    "explanation": "MVP 常以 echo 診斷；典型定義包含 leaflet 在長軸切面向左心房位移 >2 mm。可與 Marfan/Ehlers-Danlos 等 connective tissue disorders 相關。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；MVP 定義）"
+  },
+  {
+    "id": "VALVE-002",
+    "stem": "典型 Mitral valve prolapse（MVP）的聽診表現，最常見是哪一組？",
+    "options": [
+      {
+        "key": "A",
+        "text": "early diastolic murmur + opening snap"
+      },
+      {
+        "key": "B",
+        "text": "mid-systolic click ± late systolic murmur"
+      },
+      {
+        "key": "C",
+        "text": "continuous machinery murmur"
+      },
+      {
+        "key": "D",
+        "text": "holosystolic murmur at LUSB with fixed split S2"
+      }
+    ],
+    "answer": "B",
+    "explanation": "MVP 典型是 mid-systolic click（瓣膜突然緊繃）± late systolic murmur（若合併 MR）。其餘選項分別較符合 MS、PDA、ASD 等。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；MVP 聽診）"
+  },
+  {
+    "id": "VALVE-003",
+    "stem": "下列哪一項最符合 Aortic stenosis（AS）的常見病因/風險因子？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rheumatic fever 是最常見於所有年齡層的原因"
+      },
+      {
+        "key": "B",
+        "text": "Age-related degenerative calcification 是老年 AS 的重要原因之一"
+      },
+      {
+        "key": "C",
+        "text": "AS 與 congenital bicuspid aortic valve 無關"
+      },
+      {
+        "key": "D",
+        "text": "AS 通常與 thyrotoxicosis 直接相關"
+      }
+    ],
+    "answer": "B",
+    "explanation": "老年人 AS 常見原因是 degenerative calcification；bicuspid aortic valve 是重要的 congenital risk factor（較早發病）。Rheumatic disease 亦可造成 AS 但並非所有年齡層最常見。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；AS 病因）"
+  },
+  {
+    "id": "VALVE-004",
+    "stem": "Aortic stenosis（AS）最典型的 pulse finding 為何？",
+    "options": [
+      {
+        "key": "A",
+        "text": "bounding pulse"
+      },
+      {
+        "key": "B",
+        "text": "water-hammer pulse"
+      },
+      {
+        "key": "C",
+        "text": "pulsus parvus et tardus"
+      },
+      {
+        "key": "D",
+        "text": "bisferiens pulse（在所有 AS 都最典型）"
+      }
+    ],
+    "answer": "C",
+    "explanation": "AS 經典脈象是 pulsus parvus et tardus（小且遲），反映左心室流出受阻。water-hammer/bounding 多見 AR；bisferiens 可見於 AR 或某些情境但非「所有 AS 最典型」。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；AS 臨床徵象）"
+  },
+  {
+    "id": "VALVE-005",
+    "stem": "Aortic regurgitation（AR）典型會出現下列何種血壓特徵？",
+    "options": [
+      {
+        "key": "A",
+        "text": "narrow pulse pressure"
+      },
+      {
+        "key": "B",
+        "text": "wide pulse pressure"
+      },
+      {
+        "key": "C",
+        "text": "fixed split S2"
+      },
+      {
+        "key": "D",
+        "text": "狹窄型 pulse pressure 與 AR 完全無關"
+      }
+    ],
+    "answer": "B",
+    "explanation": "AR 因 diastolic runoff 造成 diastolic 下降、systolic 常上升（stroke volume 增加），呈 wide pulse pressure。",
+    "reference": "《三(1)：心內、胸內》PDF p26（pulse pressure 概念延伸）"
+  },
+  {
+    "id": "VALVE-006",
+    "stem": "Mitral stenosis（MS）常見的聽診特徵，下列何者最符合？",
+    "options": [
+      {
+        "key": "A",
+        "text": "opening snap + mid-diastolic rumbling murmur"
+      },
+      {
+        "key": "B",
+        "text": "mid-systolic click"
+      },
+      {
+        "key": "C",
+        "text": "early diastolic decrescendo murmur at left sternal border"
+      },
+      {
+        "key": "D",
+        "text": "continuous murmur throughout systole and diastole"
+      }
+    ],
+    "answer": "A",
+    "explanation": "MS 經典是 opening snap（瓣膜打開聲）與 mid-diastolic rumble；mid-systolic click 為 MVP；early diastolic decrescendo 在 LSB 為 AR；continuous 多見 PDA。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；鑑別整理）"
+  },
+  {
+    "id": "VALVE-007",
+    "stem": "下列哪一個最符合「Aortic stenosis 的 murmur 位置與放射（radiation）」？",
+    "options": [
+      {
+        "key": "A",
+        "text": "apex 最大且放射到腋下（axilla）"
+      },
+      {
+        "key": "B",
+        "text": "RUSB 最大，常放射到頸動脈（carotids）"
+      },
+      {
+        "key": "C",
+        "text": "LLSB 最大，吸氣增強"
+      },
+      {
+        "key": "D",
+        "text": "連續性 machinery murmur"
+      }
+    ],
+    "answer": "B",
+    "explanation": "AS 典型為 systolic ejection murmur，RUSB 最明顯並可放射至頸動脈。A 適合 MR；C 常見於 TR；D 為 PDA。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；AS murmur）"
+  },
+  {
+    "id": "VALVE-008",
+    "stem": "關於 MVP（mitral valve prolapse）與其相關疾病，下列何者較正確？",
+    "options": [
+      {
+        "key": "A",
+        "text": "與 Marfan syndrome 無關"
+      },
+      {
+        "key": "B",
+        "text": "可與 connective tissue disorders（如 Marfan / Ehlers-Danlos）相關"
+      },
+      {
+        "key": "C",
+        "text": "只會出現在老年人"
+      },
+      {
+        "key": "D",
+        "text": "一定合併嚴重 MR"
+      }
+    ],
+    "answer": "B",
+    "explanation": "MVP 可與結締組織疾病相關；年齡分布更廣；不一定合併嚴重 MR。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；MVP 關聯）"
+  },
+  {
+    "id": "VALVE-009",
+    "stem": "下列哪一個最符合 Mitral regurgitation（MR）的典型 murmur？",
+    "options": [
+      {
+        "key": "A",
+        "text": "holosystolic murmur at apex radiating to axilla"
+      },
+      {
+        "key": "B",
+        "text": "mid-diastolic rumble with opening snap"
+      },
+      {
+        "key": "C",
+        "text": "systolic ejection murmur at RUSB radiating to carotids"
+      },
+      {
+        "key": "D",
+        "text": "early diastolic decrescendo murmur at LSB"
+      }
+    ],
+    "answer": "A",
+    "explanation": "MR 常見 holosystolic murmur at apex radiating to axilla。其餘選項分別較符合 MS、AS、AR。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；murmer 鑑別）"
+  },
+  {
+    "id": "VALVE-010",
+    "stem": "若要用一句話描述「Aortic stenosis 的 hemodynamic 後果」，下列何者最貼近？",
+    "options": [
+      {
+        "key": "A",
+        "text": "diastolic runoff 增加，造成 diastolic BP 降低"
+      },
+      {
+        "key": "B",
+        "text": "左心室流出道阻力上升，造成 pressure overload 與 concentric hypertrophy"
+      },
+      {
+        "key": "C",
+        "text": "右心室流入受阻，造成右心房擴大"
+      },
+      {
+        "key": "D",
+        "text": "造成 high-output heart failure"
+      }
+    ],
+    "answer": "B",
+    "explanation": "AS 使 LV outflow obstruction → pressure overload → concentric hypertrophy（適應性）。A 比較符合 AR；C 為三尖瓣/肺動脈相關；D 為 hyperdynamic state。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；AS 概念）"
+  },
+  {
+    "id": "VALVE-011",
+    "stem": "下列何者最符合「Aortic regurgitation（AR）的 murmur 特徵」？",
+    "options": [
+      {
+        "key": "A",
+        "text": "mid-systolic click"
+      },
+      {
+        "key": "B",
+        "text": "early diastolic decrescendo murmur，常在 left sternal border 聽到"
+      },
+      {
+        "key": "C",
+        "text": "holosystolic murmur at apex radiating to axilla"
+      },
+      {
+        "key": "D",
+        "text": "continuous machinery murmur"
+      }
+    ],
+    "answer": "B",
+    "explanation": "AR 典型為 early diastolic decrescendo murmur，常在 left sternal border；A 為 MVP；C 為 MR；D 為 PDA。",
+    "reference": "《三(1)：心內、胸內》PDF（瓣膜段落；AR murmur）"
+  }
+]
