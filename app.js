@@ -45,10 +45,17 @@ function setPool(){
   shuffle(POOL);
 }
 
-function updateStatus(){
+
+  function updateStatus(){
   const map = loadWrongMap();
   const wrongCount = Object.keys(map).length;
-  el("mode").textContent = `模式：${mode === "WRONG" ? "只練錯題" : "全部題目"}（錯題庫：${wrongCount}）`;
+
+  const total = ALL.length;
+  const poolLeft = POOL.length + (current ? 1 : 0); // 這輪還剩幾題（含目前這題）
+
+  el("mode").textContent =
+    `模式：${mode === "WRONG" ? "只練錯題" : "全部題目"}｜總題數：${total}｜本輪剩餘：${poolLeft}｜錯題庫：${wrongCount}`;
+
   el("progress").textContent = current ? `目前題號：${current.id}` : "";
 }
 
