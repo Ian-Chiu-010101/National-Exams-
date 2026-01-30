@@ -52,12 +52,24 @@ function updateStatus(){
   el("progress").textContent = current ? `目前題號：${current.id}` : "";
 }
 
+// ✅ 新增：格式化題目來源顯示（衍生/原題 + 來源）
+function formatSourceLine(q){
+  const isDerived = (q.qtype === "derived");
+  const tag = isDerived ? "【衍生題】" : "【原題】";
+  const src = (q.origin || q.reference || "").trim();
+  if(!src) return tag;                 // 沒有來源時至少顯示標籤
+  return `${tag} 參考：${src}`;        // 有來源就顯示
+}
+
 function renderQuestion(q){
   current = q;
   locked = false;
 
   el("qid").textContent = `ID: ${q.id}`;
-  el("ref").textContent = q.reference ? `參考：${q.reference}` : "";
+
+  // ✅ 改這裡：ref 顯示「原題/衍生題」+ 來源（origin 優先，沒有就用 reference）
+  el("ref").textContent = formatSourceLine(q);
+
   el("stem").textContent = q.stem;
 
   const box = el("options");
